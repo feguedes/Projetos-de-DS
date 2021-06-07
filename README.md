@@ -17,5 +17,5 @@
 
 
 ## Projetos:
-
+* **Analisando os Dados do Airbnb (Vancouver)** https://bit.ly/3pw9EM0
 ---
