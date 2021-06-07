@@ -11,9 +11,9 @@
 **Background in:** Python, Investiments advisoring.
 
 **Links:**
-* [Blog]
+* [Blog](https://medium.com/@feguedes.dev)
 * [LinkedIn](https://www.linkedin.com/in/felipe-guedes-9966b911a/b)
-* [Medium]
+* [Medium](https://medium.com/@feguedes.dev)
 
 
 ## Projetos:
