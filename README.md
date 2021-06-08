@@ -18,4 +18,5 @@
 
 ## Projetos:
 * **Analisando os Dados do Airbnb (Vancouver)** https://bit.ly/3pw9EM0
+* **Análise de ações ITSA4** https://bit.ly/3v5xpvQ
 ---
