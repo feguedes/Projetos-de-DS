@@ -19,4 +19,5 @@
 ## Projetos:
 * **Analisando os Dados do Airbnb (Vancouver)** https://bit.ly/3pw9EM0
 * **Análise de ações ITSA4** https://bit.ly/3v5xpvQ
+* **Cenário do COVID-19 no Brasil** https://bit.ly/3vIFbMq
 ---
