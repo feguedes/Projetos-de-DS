@@ -17,6 +17,7 @@
 
 
 ## Projetos:
+* **Projeto Panorama COVID-19 Jhons Hopkins University** https://bit.ly/3JFPdqd
 * **Análise de preços da cidade de Vanoucer(Airbnb)** https://bit.ly/3OwNW69
 * **Analisando os Dados do Airbnb (Vancouver)** https://bit.ly/3pw9EM0
 * **Análise de ações ITSA4** https://bit.ly/3v5xpvQ
