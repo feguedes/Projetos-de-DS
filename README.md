@@ -17,6 +17,7 @@
 
 
 ## Projetos:
+* **Projeto para análise de fraudes de catão de crédito** https://bit.ly/3Q8ARC2
 * **Projeto Panorama COVID-19 Jhons Hopkins University** https://bit.ly/3JFPdqd
 * **Análise de preços da cidade de Vanoucer(Airbnb)** https://bit.ly/3OwNW69
 * **Analisando os Dados do Airbnb (Vancouver)** https://bit.ly/3pw9EM0
